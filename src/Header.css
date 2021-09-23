@@ -1,0 +1,21 @@
+
+.header {
+  height: 59px;
+  background: #422ed4;
+}
+.header__container {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.header__container .logo {
+  margin-right: 10px;
+  display: block;
+}
+.header__container .label {
+  color: #fff;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 19px;
+}
